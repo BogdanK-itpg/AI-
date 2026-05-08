@@ -1,0 +1,1 @@
+"""Core package for AI Incident Management System."""
